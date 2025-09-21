@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\seonwoo\\desktop\\unrealproject\\practice_3.01_activity4.01\\study3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\study3\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seonwoo\\desktop\\unrealproject\\practice_3.01_activity4.01\\study3\\intermediate\\build\\win64\\x64\\study3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\seonwoo\\desktop\\unrealproject\\practice_3.01_activity4.01\\study3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\study3\\definitions.study3.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

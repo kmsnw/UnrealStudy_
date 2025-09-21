@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\intermediate\\build\\win64\\unrealeditor\\inc\\dodgeball\\uht\\dodgeballgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\intermediate\\build\\win64\\x64\\dodgeballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dodgeball\\definitions.dodgeball.h",
+            "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\source\\dodgeball\\dodgeballgamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\intermediate\\build\\win64\\unrealeditor\\inc\\dodgeball\\uht\\dodgeballgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

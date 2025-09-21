@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\source\\dodgeball\\dodgeball.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\intermediate\\build\\win64\\x64\\dodgeballeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dodgeball\\definitions.dodgeball.h",
+            "c:\\users\\seonwoo\\desktop\\unrealproject\\dodgeball\\source\\dodgeball\\dodgeball.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
