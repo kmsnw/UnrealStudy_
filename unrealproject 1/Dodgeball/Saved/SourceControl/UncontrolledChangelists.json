@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/seonwoo/Desktop/unrealproject/Dodgeball/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/seonwoo/Desktop/unrealproject/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W0/DZ2EHX9EVWBR6CLHRMJ307.uasset"
+			]
+		}
+	]
+}

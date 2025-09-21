@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dodgeball",
+			"Path": "..\\Source\\Dodgeball.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DodgeballEditor",
+			"Path": "..\\Source\\DodgeballEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-study3.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\study3Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\MyThirdPersonChar.gen.cpp.obj"
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\study3.init.gen.cpp.obj"
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\MyThirdPersonChar.cpp.obj"
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\study3.cpp.obj"
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\PerModuleInline.gen.cpp.obj"
+"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\Default.rc2.res"
+/OUT:"C:\Users\seonwoo\Desktop\unrealproject\practice_3.01_activity4.01\study3\Intermediate\Build\Win64\x64\UnrealEditor\Development\study3\UnrealEditor-study3.lib"
