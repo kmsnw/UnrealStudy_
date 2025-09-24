@@ -114,7 +114,7 @@ UObject* (*const Z_Construct_UClass_ADodgeballCharacter_Statics::DependentSingle
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ADodgeballCharacter_Statics::DependentSingletons) < 16);
 const UECodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_ADodgeballCharacter_Statics::InterfaceParams[] = {
-	{ Z_Construct_UClass_UHealthInterface_NoRegister, (int32)VTABLE_OFFSET(ADodgeballCharacter, IHealthInterface), false },  // 1437167136
+	{ Z_Construct_UClass_UHealthInterface_NoRegister, (int32)VTABLE_OFFSET(ADodgeballCharacter, IHealthInterface), false },  // 1956199041
 };
 const UECodeGen_Private::FClassParams Z_Construct_UClass_ADodgeballCharacter_Statics::ClassParams = {
 	&ADodgeballCharacter::StaticClass,
@@ -148,14 +148,14 @@ ADodgeballCharacter::~ADodgeballCharacter() {}
 // End Class ADodgeballCharacter
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ADodgeballCharacter, ADodgeballCharacter::StaticClass, TEXT("ADodgeballCharacter"), &Z_Registration_Info_UClass_ADodgeballCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADodgeballCharacter), 178322905U) },
+		{ Z_Construct_UClass_ADodgeballCharacter, ADodgeballCharacter::StaticClass, TEXT("ADodgeballCharacter"), &Z_Registration_Info_UClass_ADodgeballCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ADodgeballCharacter), 2231556956U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_3833899627(TEXT("/Script/Dodgeball"),
-	Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_2603799110(TEXT("/Script/Dodgeball"),
+	Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
