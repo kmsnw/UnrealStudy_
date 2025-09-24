@@ -26,4 +26,9 @@ public:
 	UFUNCTION(BlueprintNativeEvent)
 	void OnDeath();
 	virtual void OnDeath_Implementation() = 0; //=0은 이 함수의 구현이 없다는 것을 컴파일러에 알림
+
+	UFUNCTION(BlueprintNativeEvent, Category = Health)
+	void OnTakeDamage();
+	virtual void OnTakeDamage_Implementation() = 0;
 };
+

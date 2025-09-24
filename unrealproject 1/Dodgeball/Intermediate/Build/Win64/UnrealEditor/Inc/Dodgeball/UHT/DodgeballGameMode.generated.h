@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DODGEBALL_DodgeballGameMode_generated_h
 
-#define FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesADodgeballGameMode(); \
 	friend struct Z_Construct_UClass_ADodgeballGameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ADodgeballGameMode)
 
 
-#define FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ADodgeballGameMode(ADodgeballGameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	DODGEBALL_API virtual ~ADodgeballGameMode();
 
 
-#define FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_9_PROLOG
-#define FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_GENERATED_BODY \
+#define FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_9_PROLOG
+#define FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> DODGEBALL_API UClass* StaticClass<class ADodgeballGameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_DodgeballGameMode_h
+#define CURRENT_FILE_ID FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_DodgeballGameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

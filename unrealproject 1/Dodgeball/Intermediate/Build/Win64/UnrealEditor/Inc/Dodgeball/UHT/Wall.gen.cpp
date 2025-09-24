@@ -90,14 +90,14 @@ AWall::~AWall() {}
 // End Class AWall
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_Wall_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_Wall_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AWall, AWall::StaticClass, TEXT("AWall"), &Z_Registration_Info_UClass_AWall, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AWall), 2980302994U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_Wall_h_1747999692(TEXT("/Script/Dodgeball"),
-	Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_Wall_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_unrealproject_Dodgeball_Source_Dodgeball_Wall_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_Wall_h_1747999692(TEXT("/Script/Dodgeball"),
+	Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_Wall_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_seonwoo_Desktop_GitHub__UnrealStudy__unrealproject_1_Dodgeball_Source_Dodgeball_Wall_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

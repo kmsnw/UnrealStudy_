@@ -5,8 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/seonwoo/Desktop/unrealproject/Dodgeball/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/seonwoo/Desktop/unrealproject/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/W0/DZ2EHX9EVWBR6CLHRMJ307.uasset"
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/TestWidget.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/BP_RestartWidget.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/BP_DodgeballPlayerController.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/BP_DodgeballGameMode.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/BP_HUDWidget.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/BP_EnemyCharacter.uasset",
+				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GB/R8XMT5NPSYMKG3RFY5HLG7.uasset"
 			]
 		}
 	]
