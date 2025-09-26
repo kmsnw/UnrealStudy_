@@ -71,5 +71,7 @@ public:
 	virtual void OnDeath_Implementation() override;
 
 	virtual void OnTakeDamage_Implementation() override;
+
+	
 };
 
