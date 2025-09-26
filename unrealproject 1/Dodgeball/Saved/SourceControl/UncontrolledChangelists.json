@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"/Users/kmsnw/Documents/GitHub/UnrealStudy_/unrealproject 1/Dodgeball/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+>>>>>>> 57d6c2c196701c27aa77358bade7e2d035d4dc16
 				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/TestWidget.uasset",
 				"C:/Users/seonwoo/Desktop/GitHub_/UnrealStudy_/unrealproject 1/Dodgeball/Content/BP_RestartWidget.uasset",
